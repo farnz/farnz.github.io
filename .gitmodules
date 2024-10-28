@@ -1,0 +1,3 @@
+[submodule "edu-tools"]
+	path = edu-tools
+	url = https://github.com/farnz/edu-tools.github.io
